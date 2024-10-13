@@ -1,4 +1,4 @@
-#Fingerprint Sensor Support for Lenovo ideapad flex 5 
+# Fingerprint Sensor Support for Lenovo ideapad flex 5 
 
 ## Lenovo IdeaPad Flex 5 14ITL05
 
