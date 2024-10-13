@@ -20,3 +20,7 @@ cd build
 ninja
 sudo ninja install
 ```
+
+### References
+https://github.com/Popax21/synaTudor
+https://forum.zorin.com/t/enable-lenovo-synaptic-fingerprint-reader-06cb-00be/34245
